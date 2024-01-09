@@ -1,1 +1,0 @@
-pyside6-uic GUI.ui -o GUI.py
