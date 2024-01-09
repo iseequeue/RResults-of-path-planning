@@ -1,0 +1,1001 @@
+[{
+    "_number": 1,
+    "closed_nodes": 265,
+    "coll_check_percentage": 86.71317146629957,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.631280412409826,
+    "g_units": 30,
+    "opened_nodes": 2995,
+    "total_time": 0.063256912,
+    "turn_number": 264
+},{
+    "_number": 2,
+    "closed_nodes": 47,
+    "coll_check_percentage": 78.64512292210638,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.1599910060646046,
+    "g_units": 30,
+    "opened_nodes": 678,
+    "total_time": 0.012143437,
+    "turn_number": 46
+},{
+    "_number": 3,
+    "closed_nodes": 141,
+    "coll_check_percentage": 85.08478370832441,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.251408048634681,
+    "g_units": 30,
+    "opened_nodes": 1873,
+    "total_time": 0.043308638000000003,
+    "turn_number": 140
+},{
+    "_number": 4,
+    "closed_nodes": 134,
+    "coll_check_percentage": 85.14585839320107,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.648371118845429,
+    "g_units": 30,
+    "opened_nodes": 1694,
+    "total_time": 0.037388494,
+    "turn_number": 133
+},{
+    "_number": 5,
+    "closed_nodes": 33,
+    "coll_check_percentage": 80.48423075502794,
+    "coord_tolerance": 0.1,
+    "g_cost": 1.9001787885652606,
+    "g_units": 30,
+    "opened_nodes": 473,
+    "total_time": 0.009234011,
+    "turn_number": 32
+},{
+    "_number": 6,
+    "closed_nodes": 189,
+    "coll_check_percentage": 86.18457145926045,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.742813800928658,
+    "g_units": 30,
+    "opened_nodes": 2341,
+    "total_time": 0.053811292,
+    "turn_number": 188
+},{
+    "_number": 7,
+    "closed_nodes": 265,
+    "coll_check_percentage": 85.60155496831977,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.145388842602196,
+    "g_units": 30,
+    "opened_nodes": 3106,
+    "total_time": 0.088203013,
+    "turn_number": 264
+},{
+    "_number": 8,
+    "closed_nodes": 429,
+    "coll_check_percentage": 88.75204506598455,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.190664605689632,
+    "g_units": 30,
+    "opened_nodes": 4286,
+    "total_time": 0.112748473,
+    "turn_number": 428
+},{
+    "_number": 9,
+    "closed_nodes": 41,
+    "coll_check_percentage": 80.192955887461,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.883798343098668,
+    "g_units": 30,
+    "opened_nodes": 584,
+    "total_time": 0.010795863,
+    "turn_number": 40
+},{
+    "_number": 10,
+    "closed_nodes": 4357,
+    "coll_check_percentage": 80.52580805354256,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.147934849477464,
+    "g_units": 30,
+    "opened_nodes": 24936,
+    "total_time": 1.03198764,
+    "turn_number": 4356
+},{
+    "_number": 11,
+    "closed_nodes": 107,
+    "coll_check_percentage": 74.52600257591546,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.161317989126741,
+    "g_units": 30,
+    "opened_nodes": 1407,
+    "total_time": 0.041349329,
+    "turn_number": 106
+},{
+    "_number": 12,
+    "closed_nodes": 4995,
+    "coll_check_percentage": 76.02723243810671,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.411596291783121,
+    "g_units": 30,
+    "opened_nodes": 37264,
+    "total_time": 1.428026833,
+    "turn_number": 4994
+},{
+    "_number": 13,
+    "closed_nodes": 3351,
+    "coll_check_percentage": 80.44345733201327,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.513350804063101,
+    "g_units": 30,
+    "opened_nodes": 23285,
+    "total_time": 0.872236309,
+    "turn_number": 3350
+},{
+    "_number": 14,
+    "closed_nodes": 105,
+    "coll_check_percentage": 76.53373755653148,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.4867676406104504,
+    "g_units": 30,
+    "opened_nodes": 1398,
+    "total_time": 0.036136639,
+    "turn_number": 104
+},{
+    "_number": 15,
+    "closed_nodes": 96,
+    "coll_check_percentage": 82.43896394997113,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.97515036847972,
+    "g_units": 30,
+    "opened_nodes": 1275,
+    "total_time": 0.033832487,
+    "turn_number": 95
+},{
+    "_number": 16,
+    "closed_nodes": 492,
+    "coll_check_percentage": 84.68548257136906,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.981263874266888,
+    "g_units": 30,
+    "opened_nodes": 5116,
+    "total_time": 0.113812748,
+    "turn_number": 491
+},{
+    "_number": 17,
+    "closed_nodes": 25559,
+    "coll_check_percentage": 37.15988571873581,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.253129387471947,
+    "g_units": 30,
+    "opened_nodes": 143940,
+    "total_time": 12.588589953,
+    "turn_number": 25558
+},{
+    "_number": 18,
+    "closed_nodes": 109,
+    "coll_check_percentage": 63.348448524013136,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.4492256539754664,
+    "g_units": 30,
+    "opened_nodes": 1434,
+    "total_time": 0.06572278,
+    "turn_number": 108
+},{
+    "_number": 19,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 20,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 21,
+    "closed_nodes": 184,
+    "coll_check_percentage": 59.97137062114791,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.112774426690419,
+    "g_units": 30,
+    "opened_nodes": 2272,
+    "total_time": 0.239032753,
+    "turn_number": 183
+},{
+    "_number": 22,
+    "closed_nodes": 340,
+    "coll_check_percentage": 79.30822832547997,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.421295389435652,
+    "g_units": 30,
+    "opened_nodes": 2980,
+    "total_time": 0.088180119,
+    "turn_number": 339
+},{
+    "_number": 23,
+    "closed_nodes": 349,
+    "coll_check_percentage": 80.72009715548822,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.301797841990343,
+    "g_units": 30,
+    "opened_nodes": 3924,
+    "total_time": 0.117039912,
+    "turn_number": 348
+},{
+    "_number": 24,
+    "closed_nodes": 278,
+    "coll_check_percentage": 81.95026531935943,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.994483411037313,
+    "g_units": 30,
+    "opened_nodes": 2509,
+    "total_time": 0.067533031,
+    "turn_number": 277
+},{
+    "_number": 25,
+    "closed_nodes": 25682,
+    "coll_check_percentage": 20.691911338209678,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.283721708370933,
+    "g_units": 30,
+    "opened_nodes": 146164,
+    "total_time": 25.127434313,
+    "turn_number": 25681
+},{
+    "_number": 26,
+    "closed_nodes": 64,
+    "coll_check_percentage": 38.39525545705947,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.23245815746016,
+    "g_units": 30,
+    "opened_nodes": 921,
+    "total_time": 0.068950189,
+    "turn_number": 63
+},{
+    "_number": 27,
+    "closed_nodes": 91,
+    "coll_check_percentage": 47.918225921688084,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.2821515730913546,
+    "g_units": 30,
+    "opened_nodes": 1256,
+    "total_time": 0.092475227,
+    "turn_number": 90
+},{
+    "_number": 28,
+    "closed_nodes": 106,
+    "coll_check_percentage": 50.672656863209575,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.6758301177666466,
+    "g_units": 30,
+    "opened_nodes": 1488,
+    "total_time": 0.066437658,
+    "turn_number": 105
+},{
+    "_number": 29,
+    "closed_nodes": 88,
+    "coll_check_percentage": 80.27625796762186,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.698604718281547,
+    "g_units": 30,
+    "opened_nodes": 1170,
+    "total_time": 0.036879195,
+    "turn_number": 87
+},{
+    "_number": 30,
+    "closed_nodes": 228,
+    "coll_check_percentage": 80.0287145585269,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.9403845360002965,
+    "g_units": 30,
+    "opened_nodes": 2548,
+    "total_time": 0.078841336,
+    "turn_number": 227
+},{
+    "_number": 31,
+    "closed_nodes": 8281,
+    "coll_check_percentage": 46.69914087976709,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.839223734619829,
+    "g_units": 30,
+    "opened_nodes": 49423,
+    "total_time": 4.077099165,
+    "turn_number": 8280
+},{
+    "_number": 32,
+    "closed_nodes": 237,
+    "coll_check_percentage": 64.91268661905876,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.478263781538812,
+    "g_units": 30,
+    "opened_nodes": 2880,
+    "total_time": 0.118911094,
+    "turn_number": 236
+},{
+    "_number": 33,
+    "closed_nodes": 245,
+    "coll_check_percentage": 82.05076037351236,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.93082840541887,
+    "g_units": 30,
+    "opened_nodes": 1939,
+    "total_time": 0.061408771,
+    "turn_number": 244
+},{
+    "_number": 34,
+    "closed_nodes": 542,
+    "coll_check_percentage": 79.0292436800892,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.984790518699493,
+    "g_units": 30,
+    "opened_nodes": 5123,
+    "total_time": 0.174968361,
+    "turn_number": 541
+},{
+    "_number": 35,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 36,
+    "closed_nodes": 19808,
+    "coll_check_percentage": 21.756751556948206,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.174360233629931,
+    "g_units": 30,
+    "opened_nodes": 108438,
+    "total_time": 24.551993132,
+    "turn_number": 19807
+},{
+    "_number": 37,
+    "closed_nodes": 85,
+    "coll_check_percentage": 48.14797188497492,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.164055717429517,
+    "g_units": 30,
+    "opened_nodes": 1176,
+    "total_time": 0.075202444,
+    "turn_number": 84
+},{
+    "_number": 38,
+    "closed_nodes": 176,
+    "coll_check_percentage": 46.817851769454435,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.281296636043967,
+    "g_units": 30,
+    "opened_nodes": 1805,
+    "total_time": 0.10965117,
+    "turn_number": 175
+},{
+    "_number": 39,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 40,
+    "closed_nodes": 87,
+    "coll_check_percentage": 57.31155082181996,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.655273431122457,
+    "g_units": 30,
+    "opened_nodes": 1073,
+    "total_time": 0.259062528,
+    "turn_number": 86
+},{
+    "_number": 41,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 42,
+    "closed_nodes": 4515,
+    "coll_check_percentage": 49.095693403630314,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.218725870038032,
+    "g_units": 30,
+    "opened_nodes": 26865,
+    "total_time": 2.394352967,
+    "turn_number": 4514
+},{
+    "_number": 43,
+    "closed_nodes": 299,
+    "coll_check_percentage": 75.62027697650323,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.098753614878037,
+    "g_units": 30,
+    "opened_nodes": 2327,
+    "total_time": 0.108979822,
+    "turn_number": 298
+},{
+    "_number": 44,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 45,
+    "closed_nodes": 173,
+    "coll_check_percentage": 58.932640629460934,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.561982488955823,
+    "g_units": 30,
+    "opened_nodes": 2045,
+    "total_time": 0.210083298,
+    "turn_number": 172
+},{
+    "_number": 46,
+    "closed_nodes": 1111,
+    "coll_check_percentage": 74.16203976507755,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.848793129981554,
+    "g_units": 30,
+    "opened_nodes": 7798,
+    "total_time": 0.333292057,
+    "turn_number": 1110
+},{
+    "_number": 47,
+    "closed_nodes": 93,
+    "coll_check_percentage": 79.20659009279392,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.3061420863801128,
+    "g_units": 30,
+    "opened_nodes": 1256,
+    "total_time": 0.028349787,
+    "turn_number": 92
+},{
+    "_number": 48,
+    "closed_nodes": 168,
+    "coll_check_percentage": 77.52043050344803,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.106910774324911,
+    "g_units": 30,
+    "opened_nodes": 2278,
+    "total_time": 0.046527669,
+    "turn_number": 167
+},{
+    "_number": 49,
+    "closed_nodes": 1207,
+    "coll_check_percentage": 71.70057556447877,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.967963836274215,
+    "g_units": 30,
+    "opened_nodes": 8444,
+    "total_time": 0.374801279,
+    "turn_number": 1206
+},{
+    "_number": 50,
+    "closed_nodes": 156,
+    "coll_check_percentage": 77.88707837830242,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.105400878337673,
+    "g_units": 30,
+    "opened_nodes": 1538,
+    "total_time": 0.115945191,
+    "turn_number": 155
+},{
+    "_number": 51,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 52,
+    "closed_nodes": 87,
+    "coll_check_percentage": 56.03996812468319,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.6501663046439328,
+    "g_units": 30,
+    "opened_nodes": 1156,
+    "total_time": 0.228345368,
+    "turn_number": 86
+},{
+    "_number": 53,
+    "closed_nodes": 79,
+    "coll_check_percentage": 77.01279298718016,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.7488502467668434,
+    "g_units": 30,
+    "opened_nodes": 1136,
+    "total_time": 0.030185962,
+    "turn_number": 78
+},{
+    "_number": 54,
+    "closed_nodes": 47,
+    "coll_check_percentage": 78.17157985692701,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.1170249164808617,
+    "g_units": 30,
+    "opened_nodes": 670,
+    "total_time": 0.018206158,
+    "turn_number": 46
+},{
+    "_number": 55,
+    "closed_nodes": 463,
+    "coll_check_percentage": 79.673566526565,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.240268995440139,
+    "g_units": 30,
+    "opened_nodes": 5243,
+    "total_time": 0.157872456,
+    "turn_number": 462
+},{
+    "_number": 56,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 57,
+    "closed_nodes": 25954,
+    "coll_check_percentage": 22.314076994836455,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.140072352407042,
+    "g_units": 30,
+    "opened_nodes": 146199,
+    "total_time": 24.681887073,
+    "turn_number": 25953
+},{
+    "_number": 58,
+    "closed_nodes": 175,
+    "coll_check_percentage": 47.91550362138102,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.088239779379833,
+    "g_units": 30,
+    "opened_nodes": 2099,
+    "total_time": 0.12253505,
+    "turn_number": 174
+},{
+    "_number": 59,
+    "closed_nodes": 182,
+    "coll_check_percentage": 54.51672197560883,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.244458251436108,
+    "g_units": 30,
+    "opened_nodes": 2293,
+    "total_time": 0.091640261,
+    "turn_number": 181
+},{
+    "_number": 60,
+    "closed_nodes": 604,
+    "coll_check_percentage": 79.91346282341587,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.350321963934205,
+    "g_units": 30,
+    "opened_nodes": 4852,
+    "total_time": 0.145873868,
+    "turn_number": 603
+},{
+    "_number": 61,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 62,
+    "closed_nodes": 564,
+    "coll_check_percentage": 65.66463628351342,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.080737390149991,
+    "g_units": 30,
+    "opened_nodes": 4336,
+    "total_time": 0.281959164,
+    "turn_number": 563
+},{
+    "_number": 63,
+    "closed_nodes": 109,
+    "coll_check_percentage": 80.10005249740108,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.392649472960324,
+    "g_units": 30,
+    "opened_nodes": 1481,
+    "total_time": 0.037698613,
+    "turn_number": 108
+},{
+    "_number": 64,
+    "closed_nodes": 97,
+    "coll_check_percentage": 80.48228480608422,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.4898237508823526,
+    "g_units": 30,
+    "opened_nodes": 1350,
+    "total_time": 0.033228019,
+    "turn_number": 96
+},{
+    "_number": 65,
+    "closed_nodes": 306,
+    "coll_check_percentage": 80.00633561634125,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.578527452735297,
+    "g_units": 30,
+    "opened_nodes": 3603,
+    "total_time": 0.105529492,
+    "turn_number": 305
+},{
+    "_number": 66,
+    "closed_nodes": 73,
+    "coll_check_percentage": 80.17884883346643,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.57762038308377,
+    "g_units": 30,
+    "opened_nodes": 1015,
+    "total_time": 0.023165059000000002,
+    "turn_number": 72
+},{
+    "_number": 67,
+    "closed_nodes": 502,
+    "coll_check_percentage": 81.18482299282407,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.399521527746503,
+    "g_units": 30,
+    "opened_nodes": 4836,
+    "total_time": 0.160679936,
+    "turn_number": 501
+},{
+    "_number": 68,
+    "closed_nodes": 75,
+    "coll_check_percentage": 80.50343166374974,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.868943091252889,
+    "g_units": 30,
+    "opened_nodes": 1025,
+    "total_time": 0.022482495,
+    "turn_number": 74
+},{
+    "_number": 69,
+    "closed_nodes": 30992,
+    "coll_check_percentage": 18.9859266259866,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.211237683834334,
+    "g_units": 30,
+    "opened_nodes": 172720,
+    "total_time": 34.912027592,
+    "turn_number": 30991
+},{
+    "_number": 70,
+    "closed_nodes": 67,
+    "coll_check_percentage": 43.99623695978626,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.2310282182685746,
+    "g_units": 30,
+    "opened_nodes": 966,
+    "total_time": 0.066327362,
+    "turn_number": 66
+},{
+    "_number": 71,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 72,
+    "closed_nodes": 615,
+    "coll_check_percentage": 66.15425629661772,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.27013089483873,
+    "g_units": 30,
+    "opened_nodes": 4938,
+    "total_time": 0.328605289,
+    "turn_number": 614
+},{
+    "_number": 73,
+    "closed_nodes": 275,
+    "coll_check_percentage": 79.98053359007542,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.537545950016546,
+    "g_units": 30,
+    "opened_nodes": 3401,
+    "total_time": 0.100206931,
+    "turn_number": 274
+},{
+    "_number": 74,
+    "closed_nodes": 0,
+    "coll_check_percentage": 0.0,
+    "coord_tolerance": 0.0,
+    "g_cost": 0.0,
+    "g_units": 0,
+    "opened_nodes": 0,
+    "total_time": 0.0,
+    "turn_number": 0
+},{
+    "_number": 75,
+    "closed_nodes": 98,
+    "coll_check_percentage": 50.68308763728495,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.9670751637107755,
+    "g_units": 30,
+    "opened_nodes": 1299,
+    "total_time": 0.248876787,
+    "turn_number": 97
+},{
+    "_number": 76,
+    "closed_nodes": 134,
+    "coll_check_percentage": 78.98469741483916,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.925891368104043,
+    "g_units": 30,
+    "opened_nodes": 1535,
+    "total_time": 0.037490743,
+    "turn_number": 133
+},{
+    "_number": 77,
+    "closed_nodes": 105,
+    "coll_check_percentage": 78.69045699338587,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.990112080359842,
+    "g_units": 30,
+    "opened_nodes": 1405,
+    "total_time": 0.032054184,
+    "turn_number": 104
+},{
+    "_number": 78,
+    "closed_nodes": 271,
+    "coll_check_percentage": 80.92322006265925,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.508277040520642,
+    "g_units": 30,
+    "opened_nodes": 2934,
+    "total_time": 0.076253967,
+    "turn_number": 270
+},{
+    "_number": 79,
+    "closed_nodes": 587,
+    "coll_check_percentage": 79.57354323343276,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.782444760630018,
+    "g_units": 30,
+    "opened_nodes": 4222,
+    "total_time": 0.127448384,
+    "turn_number": 586
+},{
+    "_number": 80,
+    "closed_nodes": 272,
+    "coll_check_percentage": 79.37638016100502,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.183191334060739,
+    "g_units": 30,
+    "opened_nodes": 3055,
+    "total_time": 0.082124983,
+    "turn_number": 271
+},{
+    "_number": 81,
+    "closed_nodes": 26203,
+    "coll_check_percentage": 19.847797979430666,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.259235726341292,
+    "g_units": 30,
+    "opened_nodes": 147116,
+    "total_time": 25.295816303,
+    "turn_number": 26202
+},{
+    "_number": 82,
+    "closed_nodes": 85,
+    "coll_check_percentage": 40.380088279369936,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.753473209542358,
+    "g_units": 30,
+    "opened_nodes": 1129,
+    "total_time": 0.055039816,
+    "turn_number": 84
+},{
+    "_number": 83,
+    "closed_nodes": 80,
+    "coll_check_percentage": 44.33152263305682,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.1007506462706553,
+    "g_units": 30,
+    "opened_nodes": 1069,
+    "total_time": 0.048326939,
+    "turn_number": 79
+},{
+    "_number": 84,
+    "closed_nodes": 60,
+    "coll_check_percentage": 41.26729347402226,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.7975504197581347,
+    "g_units": 30,
+    "opened_nodes": 860,
+    "total_time": 0.042255581,
+    "turn_number": 59
+},{
+    "_number": 85,
+    "closed_nodes": 16900,
+    "coll_check_percentage": 27.493941383637317,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.197220008507247,
+    "g_units": 30,
+    "opened_nodes": 93895,
+    "total_time": 10.608764357,
+    "turn_number": 16899
+},{
+    "_number": 86,
+    "closed_nodes": 124,
+    "coll_check_percentage": 48.581601947450984,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.8694102794890446,
+    "g_units": 30,
+    "opened_nodes": 1627,
+    "total_time": 0.072089561,
+    "turn_number": 123
+},{
+    "_number": 87,
+    "closed_nodes": 10886,
+    "coll_check_percentage": 50.22670181783943,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.717291566046584,
+    "g_units": 30,
+    "opened_nodes": 55316,
+    "total_time": 4.483253741,
+    "turn_number": 10885
+},{
+    "_number": 88,
+    "closed_nodes": 569,
+    "coll_check_percentage": 67.19949809130594,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.620181892984123,
+    "g_units": 30,
+    "opened_nodes": 4428,
+    "total_time": 0.162985225,
+    "turn_number": 568
+},{
+    "_number": 89,
+    "closed_nodes": 368,
+    "coll_check_percentage": 80.69441430343069,
+    "coord_tolerance": 0.1,
+    "g_cost": 9.800024692360848,
+    "g_units": 30,
+    "opened_nodes": 4248,
+    "total_time": 0.118880313,
+    "turn_number": 367
+},{
+    "_number": 90,
+    "closed_nodes": 67,
+    "coll_check_percentage": 77.685902505231,
+    "coord_tolerance": 0.1,
+    "g_cost": 2.9751697703979927,
+    "g_units": 30,
+    "opened_nodes": 965,
+    "total_time": 0.0236672,
+    "turn_number": 66
+},{
+    "_number": 91,
+    "closed_nodes": 303,
+    "coll_check_percentage": 81.10733891020794,
+    "coord_tolerance": 0.1,
+    "g_cost": 7.253987134801093,
+    "g_units": 30,
+    "opened_nodes": 2937,
+    "total_time": 0.084983546,
+    "turn_number": 302
+},{
+    "_number": 92,
+    "closed_nodes": 35,
+    "coll_check_percentage": 75.72218612070908,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.045890519449955,
+    "g_units": 30,
+    "opened_nodes": 500,
+    "total_time": 0.011031656,
+    "turn_number": 34
+},{
+    "_number": 93,
+    "closed_nodes": 536,
+    "coll_check_percentage": 78.35121376592531,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.10397047767901,
+    "g_units": 30,
+    "opened_nodes": 3985,
+    "total_time": 0.140198106,
+    "turn_number": 535
+},{
+    "_number": 94,
+    "closed_nodes": 220,
+    "coll_check_percentage": 80.69264896023817,
+    "coord_tolerance": 0.1,
+    "g_cost": 4.475473530977134,
+    "g_units": 30,
+    "opened_nodes": 2761,
+    "total_time": 0.06659209,
+    "turn_number": 219
+},{
+    "_number": 95,
+    "closed_nodes": 52684,
+    "coll_check_percentage": 9.069395213760775,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.699279241839882,
+    "g_units": 30,
+    "opened_nodes": 334770,
+    "total_time": 157.848419764,
+    "turn_number": 52683
+},{
+    "_number": 96,
+    "closed_nodes": 3237,
+    "coll_check_percentage": 65.82473046814935,
+    "coord_tolerance": 0.1,
+    "g_cost": 8.754363992339728,
+    "g_units": 30,
+    "opened_nodes": 20910,
+    "total_time": 0.97736275,
+    "turn_number": 3236
+},{
+    "_number": 97,
+    "closed_nodes": 159,
+    "coll_check_percentage": 68.42040709576757,
+    "coord_tolerance": 0.1,
+    "g_cost": 5.247620222408719,
+    "g_units": 30,
+    "opened_nodes": 1855,
+    "total_time": 0.054886507,
+    "turn_number": 158
+},{
+    "_number": 98,
+    "closed_nodes": 108,
+    "coll_check_percentage": 80.78156102916219,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.1097320067170395,
+    "g_units": 30,
+    "opened_nodes": 1380,
+    "total_time": 0.031687728,
+    "turn_number": 107
+},{
+    "_number": 99,
+    "closed_nodes": 90,
+    "coll_check_percentage": 82.01786944459428,
+    "coord_tolerance": 0.1,
+    "g_cost": 3.0329643358313896,
+    "g_units": 30,
+    "opened_nodes": 1239,
+    "total_time": 0.024065389,
+    "turn_number": 89
+},{
+    "_number": 100,
+    "closed_nodes": 18699,
+    "coll_check_percentage": 27.62426546582005,
+    "coord_tolerance": 0.1,
+    "g_cost": 6.959221176983038,
+    "g_units": 30,
+    "opened_nodes": 105352,
+    "total_time": 12.344669447,
+    "turn_number": 18698
+}]
